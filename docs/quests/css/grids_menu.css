@@ -3,10 +3,11 @@
     display: grid;
     grid-template-columns: auto auto auto auto;
     justify-content: space-around;
+    margin-bottom: 0px;
+    color: blueviolet;
 }
 
 .nav-item {
-    background-color: chocolate;
     font-size: 30px;
     text-decoration: none;
 }
